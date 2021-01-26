@@ -1,0 +1,157 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#container{
+	width: 1144px;
+	height: 1606px;
+	background-color: #B3AEA8;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header{
+    width: 1144px;
+    height: 8px;
+    background-color: #F49819;
+}
+#nav{
+    width: 1144px;
+    height: 120px;
+    margin-top: 0px;
+    background-color: #FDFDFD;
+}
+#logo{
+    margin-top: -70px;
+    margin-left: 20px;
+}
+#nav ul{
+    list-style-type: none;	
+}
+#nav ul li{
+    display: inline-block;
+    margin-top: 47px;
+    margin-left: 708px;
+    margin-right: -710px;
+}
+#nav ul li a{
+    text-decoration: none;
+    background-color: #F49819;
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 20px;
+    padding-top: 44px;
+    padding-left: 15px;
+    padding-bottom: 44px;
+    padding-right: 22px;
+}
+#nav ul li a:hover{
+    background-color: #9D4D1D;
+    color: #FFFFFF;
+}
+#article{
+	float: left;
+    width: 1144px;
+    height: 1215px;
+    background-color: #EFE59C;
+    margin-top: 5px;
+}
+#h1{
+    color: #2F2F2F;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 25pt;
+}
+#saludo{
+    color: #363636;
+    text-align: center;
+    margin-left: 39px;
+    margin-right: 33px;
+    font-size: 15pt;
+}
+#entradas{
+    width: 350px;
+    height: 567px;
+    background-color: #C08142;
+    margin-left: 23px;
+    margin-top: 52px;
+    font-size: 15pt;
+}
+#img-entradas{
+    width: 350px;
+    height: 293px;
+    background-image: url(../img/thumb_criollos.jpg);
+}
+#titulo-entrada{
+    color: #363636;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 25pt;
+    text-align: center;
+    font-style: normal;
+    margin-top: 12px;
+    margin-left: 13px;
+    margin-right: 8px;
+}
+#comentario{
+    color: #3B3B3B;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    font-size: 15pt;
+    margin-top: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+#criollas{
+    width: 350px;
+    height: 567px;
+    background-color: #C08142;
+    background-image: url(url);
+    margin-left: 392px;
+    margin-top: -567px;
+}
+#img-criollas{
+    background-image: url(../img/thumb_entradas.jpg);
+    width: 350px;
+    height: 293px;
+}
+#titulo-criollas{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #3B3B3B;
+    text-align: center;
+    font-size: 25pt;
+    margin-top: 12px;
+}
+#Pastas{
+    width: 350px;
+    height: 567px;
+    background-color: #C08142;
+    background-image: url(url);
+    margin-left: 762px;
+    margin-top: -568px;
+}
+#img-Pastas{
+    background-image: url(../img/thumb_pastas.jpg);
+    width: 350px;
+    height: 293px;	
+}
+#titulo-Pastas{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #3B3B3B;
+    text-align: center;
+    font-size: 25pt;
+    margin-top: 12px;
+}
+#footer{
+	float: left
+    width: 1144px;
+    height: 257px;
+    background-color: #CD8E27;
+    margin-top: 1264px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+    text-decoration: underline;
+}
